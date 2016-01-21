@@ -9,3 +9,6 @@ In general, theses appear to have similar structure across department, but disci
 
 
 To see visualizations and further results, navigate to http://denalirao.github.io/thesis-Visualizations/ .
+
+
+thesis_parser.py is the script that was used to extract text from the theses.
